@@ -14,3 +14,5 @@ No installation is required - [click me and access the Portfolio](https://christ
 ## Contribution
 folke the repo, clone it on your local PC and change the code to make it much better- Push requests are welcome
 
+## License : MIT
+
